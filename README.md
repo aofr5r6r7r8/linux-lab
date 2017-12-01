@@ -6,6 +6,7 @@
 # navayosmv tt0822854     (shooter)
 # navayosmv tt0468569     (The Dark Knight)
 # navayosmv tt2250912     (Spider-Man: Homecoming)
+# navayosmv tt0478970     (ant-man)
 # หรือสามารถ เข้า navayoscli ก็ได้
 # ตัวอย่างการดึง poster จากเว็บ
 # navayoscli shooter
